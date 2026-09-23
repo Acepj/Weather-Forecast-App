@@ -1,6 +1,6 @@
 WEATHER FORECAST 
 
-# 🌤️ Weather Forecast Web App
+# 🌤️ Weather Forecast Web Appp
 
 This is a responsive weather forecast web app designed with a sleek UI and animated background features. It allows users to input a city name and view real-time weather details in a visually appealing layout.
 
